@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=https://cloudconvert.com/
+HostUrl=https://eu-central.storage.cloudconvert.com/tasks/1f566784-c69b-47b7-9885-b223ddfb1757/logo-extended-laptop.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=cloudconvert-production%2F20240828%2Ffra%2Fs3%2Faws4_request&X-Amz-Date=20240828T101839Z&X-Amz-Expires=86400&X-Amz-Signature=a7d8873f73e401799c29bc09f477fa6d2c379733d5972b214a0c7266b9794f80&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3D%22logo-extended-laptop.webp%22&response-content-type=image%2Fwebp&x-id=GetObject

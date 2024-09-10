@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=https://cloudconvert.com/
+HostUrl=https://eu-central.storage.cloudconvert.com/tasks/51b12f04-027d-4348-940d-067b656a8770/angelo-abear-knTKij60p3g-unsplash.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=cloudconvert-production%2F20240902%2Ffra%2Fs3%2Faws4_request&X-Amz-Date=20240902T151840Z&X-Amz-Expires=86400&X-Amz-Signature=ed885f4184833ca3b5ae99d9cdb7d6cdda82fcd4bab352e522f0bb7c811e1e6e&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3D%22angelo-abear-knTKij60p3g-unsplash.webp%22&response-content-type=image%2Fwebp&x-id=GetObject
